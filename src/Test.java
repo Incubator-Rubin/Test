@@ -10,7 +10,7 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("复习git使用");
-
+        System.out.println("拉取完新代码后，开发完提交自己的代码");
         usageLinks = new ArrayList<>();
         UsageLink usageLink1 = new UsageLink();
         usageLink1.setParentNumber("");
