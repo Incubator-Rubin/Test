@@ -9,6 +9,7 @@ public class Test {
     private static ArrayList<UsageLink> usageLinks = null;
 
     public static void main(String[] args) {
+        System.out.println("复习git使用");
 
         usageLinks = new ArrayList<>();
         UsageLink usageLink1 = new UsageLink();
